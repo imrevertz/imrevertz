@@ -1,5 +1,5 @@
 ![banner](https://i.imgur.com/vHag2DF.jpg)
-<h1 align ="center" font-size:30px>Welcome, I'm Zee</h1>
+<h1 align ="center" font-size:55px>Welcome, I'm Zee</h1>
 <h3 align = "center"><strong>Some lurker on discord🤷🏿‍♂️ </h3>
 
 
