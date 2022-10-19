@@ -57,16 +57,16 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=notcarti&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=2perk&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://ko-fi.com/playboi" target="_blank" style="display: inline-block;">
+            <a href="Zee’✞#6879 target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord" 
                     align="center"
                 />
             </a></div>
