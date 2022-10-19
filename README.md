@@ -28,9 +28,9 @@
 <div align = center width = 50%>
 <h2 style="font-size:30px"><b>What I'm constantly listening to</h2>
 <ul>
-<li> https://zee.is-braindead.lol/s/sxtg2b0m97
-<li> https://zee.is-braindead.lol/s/n1emplaoac
-<li> https://zee.is-braindead.lol/s/is0groby9g
+<li>https://zee.is-braindead.lol/s/sxtg2b0m97
+<li>https://zee.is-braindead.lol/s/n1emplaoac
+<li>https://zee.is-braindead.lol/s/is0groby9g
 <ul>
 </div>
   
