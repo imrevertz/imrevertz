@@ -32,6 +32,16 @@
 
 <br/>  
 
+<div align = "right" width = 50%>
+<h2 style="font-size:30px"><b><b></h2>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q7mrdrlc2ullx4dpm2sakwvtie&cover_image=true&theme=default&show_offline=false&bar_color=f6fa00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<ul>
+<div align= "right" width = 45%>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+<div align = left width = 50%>
+<h2 style="font-size:30px"><b>Learn More About ME <b></h2>
+<ul>
 
 <div align="center" width = 50%>
 <h2 style="font-size:30px"><b>Connect with me</h2>
