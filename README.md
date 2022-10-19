@@ -24,15 +24,15 @@
 
 
 <div align = center width = 75%>
-<h2 style="font-size:30px"><b>    What I'm currently listening to</h2>
+<h2 style="font-size:30px"><b>What I'm currently listening to</h2>
 <ul>
 <li> https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo
 <ul>
 <br/>  
 
 
-## Connect with me :)  
-<div align="center">
+<div align="center" width = 50%>
+<h2 style="font-size:30px"><b>Connect with me>
 <a href="https://github.com/2perk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
