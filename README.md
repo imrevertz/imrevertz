@@ -1,4 +1,5 @@
-## <div align="center">Welcome to my profile</div>  
+## <div align="center">Hi, I'm Zee</div> 
+<div align = "center"><strong>Some lurker on discord🤷🏿‍♂️ </h3>
 
 
 <br/>  
@@ -45,7 +46,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=2perk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=2perk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117")" align="center" /></div>  
 
 <br/>   
   
