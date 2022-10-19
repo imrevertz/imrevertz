@@ -23,12 +23,14 @@
 <br>  
 
 
-<div align = center width = 75%>
+<div align = center width = 50%>
 <h2 style="font-size:30px"><b>What I'm currently listening to</h2>
 <ul>
 <li> https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo
 <ul>
-<br/>  
+</div>
+  
+<br/>
 
 
 <div align="center" width = 50%>
