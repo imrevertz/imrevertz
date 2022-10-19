@@ -32,9 +32,7 @@
 
 
 ### What I'm currently listening to!  
-<div align="center">
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5R2S0Rm6YwT3ISk1RwOIyo?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+[Spotify Playlist](https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo) 
 
 </td></tr></table>  
 
