@@ -26,8 +26,9 @@
 <div align = center width = 50%>
 <h2 style="font-size:30px"><b>What I'm currently listening to</h2>
 <ul>
-<div align = center> [Spotify](https://zee.is-braindead.lol/s/n1emplaoac)
+<li> https://zee.is-braindead.lol/s/sxtg2b0m97
 <li> https://zee.is-braindead.lol/s/n1emplaoac
+<li> https://zee.is-braindead.lol/s/is0groby9g
 <ul>
 </div>
   
