@@ -1,8 +1,9 @@
-## <div align="center">Hi, I'm Zee</div> 
-<div align = "center"><strong>Some lurker on discord🤷🏿‍♂️ </h3>
+<h1 align ="center">Hi, I'm Zee</h1>
+<h3 align = "center"><strong>Some lurker on discord🤷🏿‍♂️ </h3>
 
 
-<br/>  
+
+<br/>
 
   
 <div align = "right" width = 50%>
