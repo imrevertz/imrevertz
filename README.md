@@ -1,4 +1,4 @@
-## <div align="center">Welcome to my Profile I'm Zee</div>  
+## <div align="center">Welcome to my profile</div>  
   
 
 - ⚒️I'm working on a discord server named Carti's Studio and a discord bot to go along with it!  
@@ -32,7 +32,8 @@
 
 
 ### What I'm currently listening to!  
-![Playlist on Spotify]()
+<div align="center">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5R2S0Rm6YwT3ISk1RwOIyo?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </td></tr></table>  
 
