@@ -24,7 +24,7 @@
 </div>
 <br>  
 
-<div align = "center"> What I'm constantly listening to 
+What I'm constantly listening to 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q7mrdrlc2ullx4dpm2sakwvtie&cover_image=true&theme=default&show_offline=false&bar_color=f6fa00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </td></tr></table>  
