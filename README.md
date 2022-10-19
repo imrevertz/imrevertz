@@ -16,7 +16,7 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b>Learn More About ME <b></h2>
 <ul>
-<li>I'm constantly learning</li>
+<li>Learning how to make everyone hate me</li>
 <li>I'm gonna be a student in computer engineering</li>
 <li>In my spare time, I just like to listen to music</li>
 <li>Feel free to talk to me</li>
