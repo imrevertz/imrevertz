@@ -1,4 +1,4 @@
-![banner](https://imgur.com/jOmKh0P)
+![banner](https://i.imgur.com/jOmKh0P.jpg)
 <h1 align ="center">Hi, I'm Zee</h1>
 <h3 align = "center"><strong>Some lurker on discord🤷🏿‍♂️ </h3>
 
