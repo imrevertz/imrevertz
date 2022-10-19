@@ -24,23 +24,7 @@
 </div>
 <br>  
 
-
-<div align= "center"> 
-<h2 style="font-size:30px"><b>What I'm constantly listening to</h2>
-<u1>
   
-</div>
-
-<br/>
-
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q7mrdrlc2ullx4dpm2sakwvtie&cover_image=true&theme=default&show_offline=false&bar_color=f6fa00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</td></tr></table>  
-
-<br/>  
-
-
 <div align="center" width = 50%>
 <h2 style="font-size:30px"><b>Connect with me</h2>
 <a href="https://github.com/2perk" target="_blank">
