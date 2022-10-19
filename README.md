@@ -28,7 +28,6 @@
 <ul>
 <li> https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo
 <ul>
-</div>
 <br/>  
 
 
