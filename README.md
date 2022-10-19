@@ -1,3 +1,4 @@
+![banner](https://s3.us-east-1.wasabisys.com/bios/6c737318-6785-4bec-bd97-12979793a632/MOSHED-2022-10-19-8-33-23.gif)
 <h1 align ="center">Hi, I'm Zee</h1>
 <h3 align = "center"><strong>Some lurker on discord🤷🏿‍♂️ </h3>
 
