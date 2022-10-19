@@ -32,7 +32,7 @@
 
 
 <div align="center" width = 50%>
-<h2 style="font-size:30px"><b>Connect with me>
+<h2 style="font-size:30px"><b>Connect with me</h2>
 <a href="https://github.com/2perk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
