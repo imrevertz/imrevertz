@@ -18,7 +18,7 @@
 <li>I'm constantly learning</li>
 <li>I'm gonna be a student in computer engineering</li>
 <li>In my spare time, I just like to listen to music</li>
-<li>Feel free to talk to me at my mail</li>
+<li>Feel free to talk to me</li>
 <ul>
 </div>
 <br>  
