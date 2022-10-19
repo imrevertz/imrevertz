@@ -64,9 +64,9 @@
 <br/>  
 
 <div align="center">
-            <a href="Zee’✞#6879 target="_blank" style="display: inline-block;">
+            <a href="https://github.com/2perk/2perk target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord" 
+                    src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord(Zee’✞#6879)" 
                     align="center"
                 />
             </a></div>
