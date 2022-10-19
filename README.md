@@ -25,8 +25,9 @@
 
 <div align = center width = 50%>
 <h2 style="font-size:30px"><b>What I'm currently listening to</h2>
+![Spotify Playlist](https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo) 
 <ul>
-<li>![Spotify Playlist](https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo) 
+<li>
 <ul>
 <br>
 <br/>  
