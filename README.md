@@ -1,17 +1,5 @@
 ## <div align="center">Welcome to my profile</div>  
-  
 
-- ⚒️I'm working on a discord server named Carti's Studio and a discord bot to go along with it!  
-  
-
-- 🌱 I’m currently learning JavaScript and HTML/CSS  
-  
-
-- ❓ Ask me about anything related to discord.py!  
-  
-
-- 💬Fun Fact: I always have way too many google tabs  
-  
 
 <br/>  
 
@@ -39,16 +27,16 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me :)  
 <div align="center">
-<a href="https://github.com/imcarti" target="_blank">
+<a href="https://github.com/2perk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCil3ZKFmeBlhAnc2iM76Sxw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/20030307/carti" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<a href="https://open.spotify.com/user/31q7mrdrlc2ullx4dpm2sakwvtie" target="_blank">
+<img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -57,7 +45,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imcarti&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=2perk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
   
