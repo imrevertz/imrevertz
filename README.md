@@ -25,11 +25,12 @@
 
 <div align = center width = 50%>
 <h2 style="font-size:30px"><b>What I'm currently listening to</h2>
+<ul>
 ![Spotify Playlist](https://open.spotify.com/playlist/5R2S0Rm6YwT3ISk1RwOIyo) 
+</td></tr></table>  
 <ul>
-<li>
-<ul>
-<br>
+</td></tr></table>  
+
 <br/>  
 
 
