@@ -25,17 +25,12 @@
 <br>  
 
 
-<div align = center width = 50%>
-<h2 style="font-size:30px"><b>What I'm constantly listening to</h2>
-<ul>
-<li>https://zee.is-braindead.lol/s/sxtg2b0m97
-<li>https://zee.is-braindead.lol/s/n1emplaoac
-<li>https://zee.is-braindead.lol/s/is0groby9g
-<ul>
+### What I'm constantly listening to 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q7mrdrlc2ullx4dpm2sakwvtie&cover_image=true&theme=default&show_offline=false&bar_color=f6fa00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
-  
-<br/>
+
+</td></tr></table>  
+
+<br/>  
 
 
 <div align="center" width = 50%>
