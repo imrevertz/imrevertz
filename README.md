@@ -32,7 +32,7 @@
 
 
 ### What I'm currently listening to!  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=zbl831xp1h39vfsqxtdrrm2k7&cover_image=true&theme=default)
+![Playlist on Spotify]()
 
 </td></tr></table>  
 
