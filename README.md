@@ -17,7 +17,7 @@
 <ul>
 <li>Learning how to make everyone hate me</li>
 <li>In my spare time, I just like to listen to music</li>
-<li>Feel free add me on discord and talk to me</li>
+<li>Feel free to add me on discord and talk to me</li>
 <ul>
 </div>
 <br>  
