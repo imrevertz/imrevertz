@@ -1,5 +1,5 @@
-<h1 align ="center" font-size:55px>Welcome, I'm Zee</h1>
-<h3 align = "center"><strong>Some Lurker on Discord🤷🏿‍♂️ </h3>
+<h1 align ="center" font-size:55px>Welcome, I'm Revertz</h1>
+<h3 align = "center"><strong>Discord: Revertz#4316</h3>
 
 
 
