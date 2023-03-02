@@ -1,4 +1,4 @@
-<div align ="center" font-size:55px>Welcome, I'm Revertz</h1>
+<h1 align ="center" font-size:55px>Welcome, I'm Revertz</h1>
 <h2 align = "center"><strong>Discord: Revertz#4316</h3>
 
 
