@@ -1,23 +1,6 @@
 <h1 align ="center" font-size:55px>Revertz's Bio</h1>
 <h2 align = "center"><strong>Discord: Revertz#4316</h3>
 
-<br/>
-
-  
-  
-<div align="center">Welcome, I go by Tay or Revertz, a 14-year-old loner  
-
-- ⚒️I might make a discord sever in the future named "Revertz Place" or smth similar  
-  
-  
-- 🌱 I’m currently not learning anything 
-  
-
-- ❓ Feel free to ask me about anything
-  
-
-- 💬Fun Fact: Apparently I'm a skid  
-
 
 <br/>
 
@@ -26,9 +9,10 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b>Learn More About ME <b></h2>
 <ul>
-<li>Learning how to make everyone hate me</li>
-<li>In my spare time, I just like to listen to music</li>
-<li>Feel free to add me on discord and talk with me</li>
+<li>- ⚒️I might make a discord sever in the future named "Revertz Place" or smth similar  </li>
+<li>- 🌱 I’m currently not learning anything </li>
+<li>- ❓ Feel free to ask me about anything </li>
+<li>- 💬Fun Fact: Apparently I'm a skid  </li>
 <ul>
 </div>
 <br>  
