@@ -11,7 +11,7 @@
 <ul>
 <li>- ⚒️I might make a discord sever in the future named "Revertz Place" or smth similar  </li>
 <li>- 🌱 I’m currently not learning anything </li>
-<li>- ❓ Feel free to ask me about anything </li>
+<li>- ❓ Feel free to ask me about anything Revertz#4316 </li>
 <li>- 💬Fun Fact: Apparently I'm a skid  </li>
 <ul>
 </div>
