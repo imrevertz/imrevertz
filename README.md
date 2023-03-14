@@ -20,7 +20,7 @@
 
 
 
-### What I currently know!
+### What I currently know
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
@@ -29,7 +29,7 @@
 
 
 
-### What I'm learning!  
+### What I want to learn going foward 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -42,7 +42,7 @@
 
 
 
-### What I'm listening to!  
+### My music taste  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q7mrdrlc2ullx4dpm2sakwvtie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
 </td></tr></table>  
