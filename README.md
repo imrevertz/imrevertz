@@ -22,11 +22,6 @@
 <br/>
 
   
-<div align = "right" width = 50%>
-<h2 style="font-size:30px"><b>My Skill Set (Not Really) <b></h2>
-<ul>
-<div align= "right" width = 45%>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b>Learn More About ME <b></h2>
