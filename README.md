@@ -1,5 +1,4 @@
-<h1 align ="center" font-size:55px>Reevertz's Bio</h1>
-<h2 align = "center"><strong>Discord: Revertz#4316</h3>
+<h1 align ="center" font-size:55px>Revertz's Bio</h1>
 ## <div align="center">Welcome, I go by Tay or Revertz, a 14-year-old loner/div>  
 
 - ⚒️I might make a discord sever in the future named "Revertz Place" or smth similar  
