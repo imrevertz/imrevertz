@@ -43,8 +43,8 @@
 
 
 ### What I'm listening to!  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=zbl831xp1h39vfsqxtdrrm2k7&cover_image=true&theme=default)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q7mrdrlc2ullx4dpm2sakwvtie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
 </td></tr></table>  
 
 <br/>  
