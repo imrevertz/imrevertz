@@ -1,6 +1,4 @@
-<h1 align ="center" font-size:55px>Revertz's Bio</h1>
-<h2 align = "center"><strong>Discord: Revertz#4316</h3>
-
+<h1 align ="center" font-size:55px>My Bio</h1>
 
 <br/>
 
