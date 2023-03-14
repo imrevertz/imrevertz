@@ -1,5 +1,5 @@
 <h1 align ="center" font-size:55px>Revertz's Bio</h1>
-<div align="center">Welcome, I go by Tay or Revertz, a 14-year-old loner  
+<div align="center">    Welcome, I go by Tay or Revertz, a 14-year-old loner  
 
 - ⚒️I might make a discord sever in the future named "Revertz Place" or smth similar  
   
