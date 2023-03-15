@@ -10,6 +10,9 @@
 </div>  
   
   
+<br/>   
+  
+  
 </div>
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏾‍♂️ Learn More About ME <b></h2>
