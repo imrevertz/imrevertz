@@ -1,5 +1,7 @@
 <h1 align ="center" font-size:55px>I'm Revertz, 14 years old, going on to be 15.</h1>
-
+<p align=center>
+  <a href="https://discord.com/users/1072675217270378666"><img src="https://lanyard-profile-readme.vercel.app/api/1072675217270378666" width=45%></a>
+</p>
 <br/>
 
   
