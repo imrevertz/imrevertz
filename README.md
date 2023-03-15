@@ -1,4 +1,4 @@
-<h1 align ="center" font-size:55px>I'm Revertz, a loner, 14 years old, going on to be 15.</h1>
+<h1 align ="center" font-size:55px>I'm Revertz, 14 years old, going on to be 15.</h1>
 
 <br/>
 
