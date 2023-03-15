@@ -60,10 +60,6 @@
 
 <br/>  
 
-<br/>  
-
-<br/>  
-
 
 <div align="center" width = 50%>
 <h2 style="font-size:30px"><b>My Github Stats</h2>
