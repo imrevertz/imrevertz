@@ -59,20 +59,6 @@
 </td></tr></table>  
 
 <br/>  
-  
-<div align="center" width = 50%>
-<h2 style="font-size:30px"><b>Connect with me</h2>
-<a href="https://github.com/2perk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@notrevertz" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://open.spotify.com/user/31q7mrdrlc2ullx4dpm2sakwvtie" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
