@@ -7,12 +7,12 @@
   
 </div>
 <div align = left width = 50%>
-<h2 style="font-size:30px"><b>Learn More About ME <b></h2>
+<h2 style="font-size:30px"><b> 🙋🏾‍♂️ Learn More About ME <b></h2>
 <ul>
-<li>- ⚒️I might make a Discord server in the future named "Revertz Place" or smth similar and make a bot that goes with it </li>
+<li>- ⚒️ I might make a Discord server in the future named "Revertz Place" or smth similar and make a bot that goes with it </li>
 <li>- 🌱 I’m currently not learning anything </li>
 <li>- ❓ Feel free to ask me about anything Revertz#4316 </li>
-<li>- 💬Fun Fact: Apparently I'm a skid </li>
+<li>- 💬 Fun Fact: Apparently I'm a skid </li>
 <ul>
 </div>
 <br>  
