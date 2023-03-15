@@ -1,5 +1,4 @@
 <h1 align ="center" font-size:55px>Welcome, I'm Revertz</h1>
-<h3 align="center">A 14 y/o, going on to be 15.</h3>
 
 <p align=center>
   <a href="https://discord.com/users/1056288327399129108"><img src="https://lanyard.cnrad.dev/api/1056288327399129108" width=45%></a>
