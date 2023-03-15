@@ -73,14 +73,9 @@
 <div align="center" width = 50%>
 <h2 style="font-size:30px"><b>My Github Stats</h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imrevertz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117")" /></a>
+  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrevertz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>   
- 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=bloodytoolzz&label=Profile%20views&color=5c12df&style=flat" alt="bloodytoolzz" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BloodyToolzz" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/BloodyToolzz" alt="Profile Forks"></a>
-</p>  
   
 
 <br/>  
