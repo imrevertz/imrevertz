@@ -21,7 +21,7 @@
 - ⚒️ I might make a Discord server in the future named "Revertz Place" or smth similar and make a bot that goes with it  
 
 
-- 🌱 I’m currently not learning anythingS  
+- 🌱 I’m currently not learning anything
   
 
 - ❓ Feel free to ask me about anything Revertz#4316  
