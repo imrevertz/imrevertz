@@ -17,6 +17,19 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏾‍♂️ Learn More About ME <b></h2>
 <ul>
+- ⚒️I'm working on a discord server named Carti's Studio and a discord bot to go along with it!  
+  
+
+- 🌱 I’m currently learning JavaScript and HTML/CSS  
+  
+
+- ❓ Ask me about anything related to discord.py!  
+  
+
+- 💬Fun Fact: I always have way too many google tabs  
+  
+
+<br/>  
 <li>- ⚒️ I might make a Discord server in the future named "Revertz Place" or smth similar and make a bot that goes with it </li>
   
 <li>- 🌱 I’m currently not learning anything </li>
