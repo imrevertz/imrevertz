@@ -1,4 +1,4 @@
-<h1 align ="center" font-size:55px>Hi 👋🏾, I'm Revertz</h1>
+<h1 align ="center" font-size:55px>Hi, I'm Revertz</h1>
 
 <p align=center>
   <a href="https://discord.com/users/1056288327399129108"><img src="https://lanyard.cnrad.dev/api/1056288327399129108" width=45%></a>
