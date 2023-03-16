@@ -18,26 +18,16 @@
 <h2 style="font-size:30px"><b> 🙋🏾‍♂️ Learn More About ME <b></h2>
 <ul>
 
-- ⚒️I'm working on a discord server named Carti's Studio and a discord bot to go along with it!  
+- ⚒️ I might make a Discord server in the future named "Revertz Place" or smth similar and make a bot that goes with it  
+
+
+- 🌱 I’m currently not learning anythingS  
   
 
-- 🌱 I’m currently learning JavaScript and HTML/CSS  
+- ❓ Feel free to ask me about anything Revertz#4316  
   
 
-- ❓ Ask me about anything related to discord.py!  
-  
-
-- 💬Fun Fact: I always have way too many google tabs  
-  
-
-<br/>  
-<li>- ⚒️ I might make a Discord server in the future named "Revertz Place" or smth similar and make a bot that goes with it </li>
-  
-<li>- 🌱 I’m currently not learning anything </li>
-  
-<li>- ❓ Feel free to ask me about anything Revertz#4316 </li>
-  
-<li>- 💬 Fun Fact: Apparently I'm a skid </li>
+- 💬 Fun Fact: Apparently I'm a skid  
 <ul>
 </div>
 <br>  
