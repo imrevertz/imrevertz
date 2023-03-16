@@ -17,6 +17,7 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏾‍♂️ Learn More About ME <b></h2>
 <ul>
+
 - ⚒️I'm working on a discord server named Carti's Studio and a discord bot to go along with it!  
   
 
